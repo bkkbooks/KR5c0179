@@ -1,0 +1,87 @@
+canonical_identifier: bkk:krp/KR5c0179/v1
+canonical_location: https://kanripo.org/bkk/KR5c0179/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大滌洞天記
+  identifiers:
+    alt_id:
+    - DZ0782
+  date: '2015-08-29 00:54:01.861544'
+  source:
+    repository: kanripo
+    path: KR5c0179
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  base_edition: HFL
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: HFL
+  label: 【正統道藏・涵芬樓版】
+- short: ZTDZ
+  label: 【正統道藏・三家本】
+- short: SJB
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0179_000.yaml, hash: 'sha256:15b42ec4081936b298ea790ff48685fb00843abd2540bbb8b78b3ebbcdce86a7'}
+  - {seq: 1, filename: KR5c0179_001.yaml, hash: 'sha256:604b8d9132e3904239f43b0e80d6ca79796042cfaba8244f58559c0d1a2b8c1d'}
+  - {seq: 2, filename: KR5c0179_002.yaml, hash: 'sha256:10fe3299e0c9007d65ca662c528b6c6c9495e82f983a2c2402dcabf3db60d85b'}
+  - {seq: 3, filename: KR5c0179_003.yaml, hash: 'sha256:8bbd2ec886311c37738a515878d653c355b412b14dfd7a433704f7c8d906b1b5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0179_000.markers.yaml, hash: 'sha256:a6770af28d7ee8c2cdb62e62499bc955cce866fff6c7eb70aeed15b1eb23b7e9'}
+  - {seq: 1, role: markers, filename: assets/KR5c0179_001.markers.yaml, hash: 'sha256:bc3218488430ebaf940b88041a6a7aa6e282bb4a01e19cdfb27f4ffbde400b9d'}
+  - {seq: 2, role: markers, filename: assets/KR5c0179_002.markers.yaml, hash: 'sha256:91df73b30b01051e10c606d45036baa88d29c9476a20d27605dd7568874bcc4b'}
+  - {seq: 3, role: markers, filename: assets/KR5c0179_003.markers.yaml, hash: 'sha256:822b66ac71b95808ac67a2bf1e3e819e2df0c1101e0e41fffcce8e400af77db1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0179_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 0
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0179_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 3628
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0179_HFL_002-001a
+    span:
+    - body
+    - 0
+    - 6482
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0179_HFL_003-001a
+    span:
+    - body
+    - 0
+    - 10559
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:681624ba6f806c79eb4b13c562f0ddffbd4a10346ed2a305750d1d02dda576d0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

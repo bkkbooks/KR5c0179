@@ -1,0 +1,75 @@
+canonical_identifier: bkk:krp/KR5c0179/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5c0179/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大滌洞天記
+  date: '2015-08-29 00:54:01.861544'
+  source:
+    repository: kanripo
+    path: KR5c0179
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0179_000-HFL.yaml, hash: 'sha256:68a9f3cd7c80fde15e92de4411e0b69ef0bbf6ae087825a9ecf22ec8a4220125'}
+  - {seq: 1, filename: KR5c0179_001-HFL.yaml, hash: 'sha256:d8228c1c14e47f7ea57a5f60a7ec69f904a296081bf738c2a89c37ac66e15d33'}
+  - {seq: 2, filename: KR5c0179_002-HFL.yaml, hash: 'sha256:0b8008c4203afe8b1b92b53eb1f7331584e447b29dc12cd59f72d238e38b5885'}
+  - {seq: 3, filename: KR5c0179_003-HFL.yaml, hash: 'sha256:f40a1e7dbbcdf39fe462ee6275148af9bc72f436928fe6c8d026d7035c77cb44'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0179_000-HFL.markers.yaml, hash: 'sha256:145afa88f688dfc7575808b1abbdfc9f60c9861e561a48e2f34b293892796b28'}
+  - {seq: 1, role: markers, filename: assets/KR5c0179_001-HFL.markers.yaml, hash: 'sha256:23e95a529a5f46c55c339cf1f3bf4c32bd8ade9c54af5c91a3a4716f313bd44f'}
+  - {seq: 2, role: markers, filename: assets/KR5c0179_002-HFL.markers.yaml, hash: 'sha256:ac37c1554d11f22bc990c07231677691fb9153b5ec372361113bd9c347f3a25a'}
+  - {seq: 3, role: markers, filename: assets/KR5c0179_003-HFL.markers.yaml, hash: 'sha256:025fed1e28d09f88877de9802a59151709895ee1e96d1b409ad8b24222fdf013'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0179_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 0
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0179_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 3628
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0179_HFL_002-001a
+    span:
+    - body
+    - 0
+    - 6482
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0179_HFL_003-001a
+    span:
+    - body
+    - 0
+    - 10559
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:38c076e8b0a6bf5c8cada5387242efc19d40dc2b38c9e94c32ba6b444aabb58f
