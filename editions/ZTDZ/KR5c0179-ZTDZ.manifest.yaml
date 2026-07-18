@@ -29,7 +29,7 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR5c0179_000-ZTDZ.markers.yaml, hash: 'sha256:86bdf18b6f63e4419893b2cc9e14eea06f6a9c756295e266dfec71258e4f7665'}
   - {seq: 1, role: markers, filename: assets/KR5c0179_001-ZTDZ.markers.yaml, hash: 'sha256:ab257513bb5aa01b8d52d528a82ef297bc1dfa0e393137674dd4f45ea56b5c96'}
-  - {seq: 2, role: markers, filename: assets/KR5c0179_002-ZTDZ.markers.yaml, hash: 'sha256:456657eb2840d9b02e14016062f3b59f48d5f9a5b9ef01e187bb7d891309c489'}
+  - {seq: 2, role: markers, filename: assets/KR5c0179_002-ZTDZ.markers.yaml, hash: 'sha256:ab8913b0c7a1be323c4e9acd31388027171ddfbc55ce375ea31748aba3e7545a'}
   - {seq: 3, role: markers, filename: assets/KR5c0179_003-ZTDZ.markers.yaml, hash: 'sha256:bf1c91dc16c97a8261859a0f7a97b3583503f3cca6670d5901fcbefa960529af'}
 table_of_contents:
 - ref:
@@ -72,4 +72,4 @@ table_of_contents:
   label: juan 003
   type: section
   level: 1
-hash: sha256:14db0567fce2f52da7d6fef88aab6e3e6645274c50eed7a3ab793c0a19e50401
+hash: sha256:2c1ab548f01a22f2d149c19f86a1425a03ae8e716181b04177332ff7df626a92
