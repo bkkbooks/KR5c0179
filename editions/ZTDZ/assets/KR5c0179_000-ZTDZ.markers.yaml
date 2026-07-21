@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR5c0179/ZTDZ/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: 'kr:newline', offset: 0, content: '
 
       ', id: KR5c0179_ZTDZ_000-bkkkrnewl1}
@@ -264,8 +264,7 @@ markers:
 
       ', id: KR5c0179_ZTDZ_000-bkkkrnewl62}
   - {type: line-break, offset: 971, content: '', id: KR5c0179_SJB_000-180141b01}
-  body:
-  - {type: paragraph-break, offset: 0, content: '
+  - {type: paragraph-break, offset: 986, content: '
 
 
 
@@ -277,9 +276,9 @@ markers:
 
 
       ', id: KR5c0179_ZTDZ_000-bkkp1}
-  - {type: line-break, offset: 0, content: '', id: KR5c0179_SJB_000-180141b02}
-  - {type: indent, offset: 0, content: 　　　　　　　　　　　　　　　　, id: KR5c0179_ZTDZ_000-bkkind1}
-  - {type: paragraph-break, offset: 0, content: '
+  - {type: line-break, offset: 986, content: '', id: KR5c0179_SJB_000-180141b02}
+  - {type: indent, offset: 986, content: 　　　　　　　　　　　　　　　　, id: KR5c0179_ZTDZ_000-bkkind1}
+  - {type: paragraph-break, offset: 986, content: '
 
 
 
@@ -294,4 +293,4 @@ markers:
 
       ', id: KR5c0179_ZTDZ_000-bkkp2}
   back: []
-hash: sha256:86bdf18b6f63e4419893b2cc9e14eea06f6a9c756295e266dfec71258e4f7665
+hash: sha256:2a5a5637cc2b81ea2c76c43f876e45d2a21cffe150d05188b6cb69e42f01bc7e
